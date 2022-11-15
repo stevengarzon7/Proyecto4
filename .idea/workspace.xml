@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d6b9474-88d2-4fe2-a18b-2923fcbf6d6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/EmpleadoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/FacturaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/EmpleadoTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Proyecto2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmpleadoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Proyecto2" />
       <extension name="net.ashald.envfile">
@@ -88,8 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.EmpleadoTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.EmpleadoTest" />
       </list>
     </recent_temporary>
@@ -102,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668478178371</updated>
-      <workItem from="1668478179777" duration="4490000" />
+      <workItem from="1668478179777" duration="5996000" />
     </task>
     <servers />
   </component>
