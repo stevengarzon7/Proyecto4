@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d6b9474-88d2-4fe2-a18b-2923fcbf6d6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/FacturaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/EmpleadoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/FacturaTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,7 @@
     "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "/home/isabella/Documentos/Steven/iridian/Proyecto2/src",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -71,7 +67,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="FacturaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmpleadoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Proyecto2" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -84,7 +80,7 @@
         </ENTRIES>
       </extension>
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FacturaTest" />
+      <option name="MAIN_CLASS_NAME" value="EmpleadoTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
@@ -94,7 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FacturaTest" />
+        <item itemvalue="JUnit.EmpleadoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668478178371</updated>
-      <workItem from="1668478179777" duration="2928000" />
+      <workItem from="1668478179777" duration="4490000" />
     </task>
     <servers />
   </component>
